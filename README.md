@@ -4,4 +4,4 @@ This GitHub repository contains notes, source code and sample data for a set of 
 
 If you want to work through the course, the public website is http://jonblower.github.io/python-viz-intro/.
 
-If you have any suggestions for modifications to this course, please email Jon Blower at j.d.blower@reading.ac.uk or (even better) fork this repository, make the changes and submit a pull request.
+If you have any suggestions for modifications to this course, please email Jon Blower at j.d.blower@reading.ac.uk, [create an issue](https://github.com/jonblower/python-viz-intro/issues) or (even better) fork this repository, make the changes and submit a pull request.
