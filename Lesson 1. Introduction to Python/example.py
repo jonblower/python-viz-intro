@@ -34,7 +34,7 @@ while i < 10:
 # Define a function that constrains a value of longitude (in degrees) to be in the range
 # [-180:180]
 def lon180(lon):
-    lon = lon % 360
+    lon = lon % 360 # The % symbol means "modulo"
     if lon > 180:
         return lon - 360
     else:
